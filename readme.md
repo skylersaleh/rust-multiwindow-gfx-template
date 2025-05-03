@@ -19,10 +19,12 @@ A template project for building **multi-window** GUI applications in Rust using:
 
 ## 🧱 Project Structure
 
+```
 src/
 ├── main.rs # Entry point and example application
 ├── gfx_util.rs # Framework for window/gfx context management, and a few helper functions
 ├── shader.wgsl # An example wgsl shader used by the example.
+```
 
 ## 🧪 Build and Run
 
