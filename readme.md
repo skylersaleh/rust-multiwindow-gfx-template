@@ -16,6 +16,7 @@ A template project for building **multi-window** GUI applications in Rust using:
 - Immediate mode GUI with EGUI
 - Event-driven architecture with window lifecycle management
 - Easily extensible structure for prototyping or app development
+- Robust architecture supporting complex error conditions like recreating the GFX context without losing application state after a context lost event. 
 
 ## 🧱 Project Structure
 
