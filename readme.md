@@ -1,5 +1,8 @@
 # Rust Multi-Window SDL2/WGPU/EGUI Template
 
+<img width="918" alt="image" src="https://github.com/user-attachments/assets/e278e9bf-e7ab-4026-83cc-733060b7e876" />
+
+
 A template project for building **multi-window** GUI applications in Rust using:
 
 - [SDL2](https://github.com/Rust-SDL2/rust-sdl2) for windowing and input
