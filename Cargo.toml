@@ -1,0 +1,12 @@
+[package]
+name = "sdl2_wgpu"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sdl2 = { version= "0.37.0", features = ["gfx","raw-window-handle",  "bundled", "static-link"] }
+pollster = "0.2.4"
+env_logger = "0.11.0"
+wgpu = { version = "24.0", features = ["webgpu", "webgl"] }
+egui-wgpu = {version =  "0.31.1" }
+egui = "0.31.1"
